@@ -17,9 +17,17 @@ Note: The bot will require that you wait at least 5 minutes to get another ident
 
 ### confess **[confession]**
 
-![demo-identity](resources/demo-confession.png)
+![demo-confession](resources/demo-confession.png)
 
 Submits a confession to the designated confessions channel for the current server.
+
+### reveal-identity
+
+![demo-identity-reveal](resources/demo-identity-reveal.png)
+
+Reveals your real identity in the confessions channel.
+
+A user may only reveal their own identity. Server admins cannot reveal user identity using the bot.
 
 ## Admin Commands
 
