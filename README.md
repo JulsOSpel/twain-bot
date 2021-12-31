@@ -1,10 +1,6 @@
 # Twain Bot
 > Twain is an advanced anonymous confessions Discord bot with unique and powerful functionality.
 
-![demo-identity](resources/demo-identity.png)
-
-![demo-identity](resources/demo-confession.png)
-
 ## Add the bot to your server
 
 [Click here](https://discord.com/api/oauth2/authorize?client_id=926070077361631272&permissions=171866064960&scope=bot%20applications.commands) to add the bot to your server.
@@ -13,11 +9,15 @@
 
 ### new-identity
 
+![demo-identity](resources/demo-identity.png)
+
 Randomizes a user's anonymous identity! Each time you run it, you get a random color and emoji.
 
 Note: The bot will require that you wait at least 5 minutes to get another identity if you have sent a confession since making the last one.
 
 ### confess **[confession]**
+
+![demo-identity](resources/demo-confession.png)
 
 Submits a confession to the designated confessions channel for the current server.
 
