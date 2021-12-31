@@ -47,7 +47,7 @@ Revokes all bans on bot usage in the current server.
 
 ## Report issues
 
-Report bot issues (including feature requests) using the [issues](https://github.com/ethanent/twain-bot-issues/issues) tab in this repository.
+Report bot issues (including feature requests) using the [issues](https://github.com/ethanent/twain-bot/issues) tab in this repository.
 
 By creating issues you agree that they may be used to improve the bot, without compensation to you.
 
