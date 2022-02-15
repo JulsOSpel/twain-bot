@@ -45,6 +45,14 @@ Bans or unbans the original sender of the anonymous confession message from usin
 
 Revokes all bans on bot usage in the current server.
 
+## Other user features
+
+### Delete confessions
+
+![demo-delete-confession](resources/demo-delete-confession.png)
+
+Users can delete their own confessions by right clicking them and clicking Apps > Delete Confession.
+
 ## Report issues
 
 Report bot issues (including feature requests) using the [issues](https://github.com/ethanent/twain-bot/issues) tab in this repository.
