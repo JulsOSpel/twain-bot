@@ -63,7 +63,7 @@ For support, use the [support server](https://discord.gg/r84v2JW).
 
 ## Moderation
 
-Server admins can manage bans on anonymous confessions through multiple means, but they are not permitted to see who made a confession.
+Server admins can manage bans on anonymous confessions through multiple means, but they are not permitted to see who made a confession through the bot.
 
 To ban an anonymous poster, admins provide the bot with the message link to the anonymous message using the `/ban-confession` command.
 
