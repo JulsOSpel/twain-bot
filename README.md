@@ -1,7 +1,7 @@
 # Twain Bot
 > Twain is an advanced anonymous confessions Discord bot with unique and powerful functionality.
 
-[Add bot](https://discord.com/api/oauth2/authorize?client_id=926070077361631272&permissions=171866064960&scope=bot%20applications.commands) | [Support server](https://discord.gg/r84v2JW)
+[Add bot](https://discord.com/api/oauth2/authorize?client_id=926070077361631272&permissions=171866064961&scope=bot%20applications.commands) | [Support server](https://discord.gg/r84v2JW)
 
 ## Add the bot to your server
 
